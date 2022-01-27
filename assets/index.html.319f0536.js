@@ -1,0 +1,1 @@
+import{o as e,c as a,a as o,b as s}from"./app.7f92ab15.js";import{_ as t}from"./plugin-vue_export-helper.21dcd24c.js";const r={},c={id:"slogan",tabindex:"-1"},n=o("a",{class:"header-anchor",href:"#slogan","aria-hidden":"true"},"#",-1),_=s(" slogan"),d=[n,_];function i(h,l){return e(),a("h1",c,d)}var m=t(r,[["render",i]]);export{m as default};
